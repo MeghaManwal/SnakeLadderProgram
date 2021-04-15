@@ -18,7 +18,6 @@ public class SnakeLadderDieRollTimesUC6
         }
 
  int new_Position=0;
- int counter=0;
  while(new_Position <= 100)
   {
     new_Position++;
